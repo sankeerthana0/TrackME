@@ -1,11 +1,24 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# 🚀 Personal Productivity Dashboard
 
-  <h1>Built with AI Studio</h2>
+A Notion-inspired, high-performance productivity suite built with React, Tailwind CSS, and Recharts.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## ✨ Features
+- **Habit Tracking**: Interactive weekly view with success rate analytics.
+- **Task Management**: Grouped by priority (High, Medium, Low) with status toggling.
+- **Visual Analytics**: Real-time charts showing your productivity flow and habit momentum.
+- **Data Persistence**: Automatically saves to Browser LocalStorage.
+- **Proof of Work**: Export your daily data as a JSON "Proof" file or import backups.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🛠️ Tech Stack
+- **Framework**: React 19
+- **Styling**: Tailwind CSS
+- **Charts**: Recharts
+- **Icons**: Lucide & Emojis
 
-</div>
+## 🚀 Deployment
+This project is optimized for deployment on **Vercel** or **Netlify**. 
+Simply connect your GitHub repository and it will build automatically.
+
+## 📄 License
+MIT
